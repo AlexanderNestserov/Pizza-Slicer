@@ -1,0 +1,12 @@
+{
+  "name": "pizza-splicer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
